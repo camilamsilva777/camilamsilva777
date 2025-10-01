@@ -1,39 +1,73 @@
 <h1 align="center"> Camila Mendonça </h1>
 
+
+<p align="center"><b>Software Engineering Student</b></p>
 <p align="center">
-  <b>Software Engineering Student</b> • Python • PL/SQL • Oracle Database • React • JavaScript • React • Agile
+   • Python • PL/SQL • Oracle Database • React • JavaScript • Tailwind • Agile Methodologies
 </p>
 
 <p align="center">
   <a href="www.linkedin.com/in/camila-mendonça-6b9640353" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="camilamendonca777@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mila.mendon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
+
 
 ---
 
 ## 📌 About Me
 
-Hi! My name is **Camila**, I am a 1st-year Software Engineering student at **FIAP**, in São Paulo, Brazil, currently working as an **IT Support Intern**.  
-I am passionate about **Cloud Computing, DevOps, and Scalable Architectures**, with hands-on experience in academic and personal projects using **Arduino, Python, AWS, and System Integration**.  
-
-I believe technology can be a powerful tool for transformation and I share my experiences and insights on my [LinkedIn](https://www.linkedin.com/in/seu-perfil/).
+Hi! My name is **Camila**, I am a 1st-year Software Engineering student at **FIAP** in São Paulo, Brazil, currently working as an **IT Support Intern**.  
+I am passionate about **Data Analysis, Database Development, and AI**. I am developing skills in **Python, PL/SQL, Oracle Database, and SQL optimization**, while also working with front-end technologies such as **React, JavaScript, and Tailwind** to create complete and integrated solutions. 
 
 ---
 
 ## 🛠 Technologies & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src
+<img
+ align="left" 
+    alt="HTML"
+    title="Python" 
+    width="50px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 
-## 📊 Estatísticas do GitHub
+<img
+  align="left" 
+    alt="HTML"
+    title="Oracle SQL Developer" 
+    width="50px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=radical"/>
-</p>
+   <img
+  align="left" 
+    alt="HTML"
+    title="Oracle PL/SQL" 
+    width="90px" 
+    style="padding-right: -10px; vertical-align: -10px; position: relative; top: -60px;"
+    src=https://miro.medium.com/v2/resize:fit:880/1*IYIP9I9YhfuLsBlxgVfiVQ.png />
+
+  <img
+  align="left" 
+    alt="HTML"
+    title="React" 
+    width="60px" 
+    style="padding-right: 10px;"
+    src= "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
+        
+<img
+ align="left" 
+    alt="HTML"
+    title="JavaScript" 
+    width="50px" 
+    style="padding-right: 10px;"
+    src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png" />
+
+<img
+  align="left" 
+    alt="HTML"
+    title="Tailwind CSS" 
+    width="70px" 
+    style="padding-right: 10px;"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" />
