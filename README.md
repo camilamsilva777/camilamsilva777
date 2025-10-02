@@ -3,7 +3,7 @@
 
 <p align="center"><b>Software Engineering Student</b></p>
 <p align="center">
-   • Python • PL/SQL • Oracle Database • React • JavaScript • Tailwind • Agile Methodologies
+   Python • PL/SQL • Oracle Database • React • JavaScript • Tailwind • Agile Methodologies
 </p>
 
 <p align="center">
