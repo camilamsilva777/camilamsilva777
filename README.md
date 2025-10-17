@@ -7,10 +7,22 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/camila-mendonça-6b9640353" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="camilamendonca777@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/mila.mendon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/camila-mendonça-6b9640353" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:camilamendonca777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/mila.mendon/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
+
 
 
 ---
