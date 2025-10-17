@@ -13,9 +13,9 @@
   </a>
 
   <!-- Email -->
-  <a href="mailto:camilamendonca777@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=camilamendonca777@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/mila.mendon/" target="_blank">
