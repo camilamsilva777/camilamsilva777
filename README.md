@@ -3,7 +3,7 @@
 
 <p align="center"><b>Software Engineering Student</b></p>
 <p align="center">
-   Python • PL/SQL • Oracle Database • React • JavaScript • Tailwind • Agile Methodologies
+   Python • PL/SQL • Data Engineering • Machine Learning • Python •
 </p>
 
 <p align="center">
@@ -29,8 +29,8 @@
 
 ## 📌 About Me
 
-Hi! My name is **Camila**, I am a 2nd-year Software Engineering student at **FIAP** in São Paulo, Brazil, currently working as an **Test Manager Intern** at Schneider Electric.  
-I am passionate about **Data Analysis, Database Development, and AI**. I am developing skills in **Python, PL/SQL, Oracle Database, and SQL optimization**, while also working with front-end technologies such as **React, JavaScript, and Tailwind** to create complete and integrated solutions. 
+Hi! My name is **Camila**, I am a 2nd-year Software Engineering student at **FIAP** in São Paulo, Brazil, currently working as an **Data Engineer** at Lima Consulting Group.  
+I am passionate about **Data Analysis, Database Development, and AI**. I am developing skills in **Python, Data Engineering, ML and Java**, while also working with front-end technologies such as **React, JavaScript, and Tailwind** to create complete and integrated solutions. 
 
 ---
 
