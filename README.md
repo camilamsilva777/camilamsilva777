@@ -3,7 +3,7 @@
 
 <p align="center"><b>Software Engineering Student</b></p>
 <p align="center">
-   Python • PL/SQL • Data Engineering • Machine Learning • Python •
+   Python • ETL • Data Engineering • Machine Learning • 
 </p>
 
 <p align="center">
